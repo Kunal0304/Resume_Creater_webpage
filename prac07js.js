@@ -1,20 +1,4 @@
 
-// while (true) {
-//     if (r==0) {
-//      //   var aa = document.getElementById("content").value;
-//        var aa=r;
-//     } 
-//      else if (r==1) {
-//      // var aa = document.getElementById("content01").value;
-//      var aa=r;
-//   } 
-//      else if (r==2) {
-//      // var aa = document.getElementById("content02").value;
-//      var aa=r;
-//   } else{
-//        window.alert("soming went worng")
-//   }
-// }
 function nam() {
 
      var name = document.getElementById("name").value;
@@ -32,10 +16,6 @@ function ema() {
      var em = document.getElementById("email").value;
      document.getElementsByClassName("c_email")[0].innerHTML = em;
 }
-
-//     PERSONAL INFO END 
-
-//     EDUCATION START 
 
 
 function sub001() {
